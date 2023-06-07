@@ -67,9 +67,20 @@ payload1 = """
 {"identifier": {"email": "sure123@qq.com"}, "inputs": {"password": "123456"}, "captcha_tokens": []}
 """
 
-def test_sign_in():
-    response_test, status_code = reuqest_sparkling(url, headers, payload)
-    assert status_code == 200
+
+def test_sign_in0():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in1():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in2():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
 
 
 def test_sign_in3():
@@ -77,11 +88,236 @@ def test_sign_in3():
   assert status_code == 200
 
 
-def test_sign_in2():
-    response_test, status_code = reuqest_sparkling(url, headers, payload1)
-    assert status_code == 200
+def test_sign_in4():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in5():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in6():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in7():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in8():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in9():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in10():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in11():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in12():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in13():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in14():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in15():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in16():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in17():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in18():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in19():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in20():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in21():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in22():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in23():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in24():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in25():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in26():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in27():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in28():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in29():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in30():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in31():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in32():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in33():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in34():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in35():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in36():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in37():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in38():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in39():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in40():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in41():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in42():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in43():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in44():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in45():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in46():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in47():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in48():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
+
+
+def test_sign_in49():
+  response_test, status_code = reuqest_sparkling(url, headers, payload)
+  assert status_code == 200
 
 
 
 if __name__=="__main__":
-    pytest.main("-v, test_1.py")
+    pytest.main("-v, test_sign_in.py")
